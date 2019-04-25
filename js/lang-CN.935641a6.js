@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["lang-CN"],{"8fba":function(a,n,e){"use strict";e.r(n);var c=e("cebc"),s=e("f0d9"),w=e.n(s);n["default"]=Object(c["a"])({message:"你好 i18n"},w.a)}}]);
+//# sourceMappingURL=lang-CN.935641a6.js.map
